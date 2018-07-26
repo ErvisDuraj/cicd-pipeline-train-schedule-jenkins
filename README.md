@@ -1,4 +1,4 @@
-webhow jenkins - train app. finished    
+webhow jenkins - train app. finished. Success build   
 
 # cicd-pipeline-train-schedule-jenkins
 
